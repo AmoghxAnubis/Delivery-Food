@@ -1,12 +1,12 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
 
 
-                           How to Setup & Run this Project
+                                                                How to Setup & Run this Project
 
 
-                   How to Run Project (Video Tutorial) - click here
+                                                          How to Run Project (Video Tutorial) - click here
 
-                                          OR
+                                                                               OR
 
 ❖	Install NodeJs ( Ignore If Already Installed)
 
@@ -21,7 +21,7 @@
 4.	Follow the prompts in the installer.
 
 
-                 —First Run Backend then Frontend & Admin—
+                                                              —First Run Backend then Frontend & Admin—
 
 
 ❖	Steps To Setup Backend Of The Project
@@ -158,7 +158,7 @@ l.	And Paste It in db.js replace password with password you set previously in 4.
 6.	Now Your Project Will Start In Your Default Web Browser
 
 
-Find More Videos https://www.youtube.com/@GreatStackDev/videos
+Find solution 9870670727
 
 
 
