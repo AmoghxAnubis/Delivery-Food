@@ -187,3 +187,7 @@ Find solution 9870670727
  
 # Fig: Tomato Food Application
 
+## License 📝
+
+This repository is licensed under the MIT license. See [LICENSE](/LICENSE) for more information.
+
