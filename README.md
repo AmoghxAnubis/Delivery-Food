@@ -1,4 +1,4 @@
-# CHAPTER- 1 
+                                                                        # CHAPTER- 1 
 # INTRODUCTION TO THE PROJECT
 # 1.1.	Introduction of Food Application
 An online food ordering system is proposed here which simplifies the food ordering process. It can be defined as a simple and convenient way for customers to order food online, without having to go to the restaurant. The proposed system shows a customer interface and updates the menu with all available options so that it eases the customer work. Customers can choose more than one item to make an order and can view order details.
