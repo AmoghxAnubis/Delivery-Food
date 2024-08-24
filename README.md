@@ -1,5 +1,6 @@
-CHAPTER- 1 INTRODUCTION TO THE PROJECT
-1.1.	Introduction of Food Application
+# CHAPTER- 1 
+# INTRODUCTION TO THE PROJECT
+# 1.1.	Introduction of Food Application
 An online food ordering system is proposed here which simplifies the food ordering process. It can be defined as a simple and convenient way for customers to order food online, without having to go to the restaurant. The proposed system shows a customer interface and updates the menu with all available options so that it eases the customer work. Customers can choose more than one item to make an order and can view order details.
 Our food application aims to provide users with a seamless and intuitive platform for communication, leveraging the power of modern web technologies. Built using the MERN stack – MongoDB, Express.js, React.js, and Node.js – our application combines the robustness of a backend server with the responsiveness of a frontend user interface, offering a comprehensive solution for real-time messaging.
 
@@ -20,55 +21,50 @@ React apps.
 
 
 
+![image](https://github.com/user-attachments/assets/b8d5c618-2c51-4c9e-a731-53c39d763281)
 
 
 
- 
+# Fig.1.1. Demonstration of Food Application
 
 
-Fig.1.1. Demonstration of Food Application
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1.2.	Aim and Objectives of the project
+# 1.2.	Aim and Objectives of the project
  
 The objective of our project is to develop a Food Application that simplifies the process of ordering food enhances customer satisfaction and improves the operational
 efficiency of participating restaurants. We aim to create a user-friendly platform that offers a wide variety of cuisines facilitates seamless order placement and delivery tracking, and fasters interactions between customers and restaurants.
 Our project seeks to achieve several key objectives:
-1.	Simplify Ordering Process: Develop a user-friendly interface that simplifies the process of ordering food, allowing customers to browse menus, customize orders, and complete transaction effortlessly.
-2.	Enhance Customer Satisfaction: Focus on improving the overall dining experience for customers by providing a diverse selection of restaurants, ensuring timely deliveries, and offering features such as order tracking and customer feedback.
-3.	Optimize Restaurant Operations: Assist restaurants in managing orders more efficiently by providing tools for order management, delivery logistics optimization, and performance analytics.
-4.	Promote Accessibility: Make food delivery more accessible to a wider audience by offering a variety of cuisines and catering to different dietary preferences and requirements.
-5.	Foster Growth and Innovation: Encourage innovation within the food delivery industry by introducing new features, technologies, and strategies that improve convenience, quality, and sustainability.
+
+1.	Simplify Ordering Process:
+   
+Develop a user-friendly interface that simplifies the process of ordering food, allowing customers to browse menus, customize orders, and complete transaction effortlessly.
+
+2.	Enhance Customer Satisfaction:
+
+Focus on improving the overall dining experience for customers by providing a diverse selection of restaurants, ensuring timely deliveries, and offering features such as order tracking and customer feedback.
+
+3.	Optimize Restaurant Operations:
+ 
+Assist restaurants in managing orders more efficiently by providing tools for order management, delivery logistics optimization, and performance analytics.
+
+4.	Promote Accessibility:
+
+Make food delivery more accessible to a wider audience by offering a variety of cuisines and catering to different dietary preferences and requirements.
+
+5.	Foster Growth and Innovation:
+
+Encourage innovation within the food delivery industry by introducing new features, technologies, and strategies that improve convenience, quality, and sustainability.
 
 By achieving these objectives, our project aims to revolutionize the food delivery landscape, creating a more seamless and enjoyable experience for both customers and restaurants alike.
 
-The most primary objective of this project is to understand the concept of building applications with the MERN stack (MongoDB, Express, React and Node). In this particular project, the focus has been built on a foodting application. The internship project focuses on developing a talking application in the MERN stack using the frontend JavaScript technology known as React and
-, as well as Node JS for the backend. Google Firebase is a free backend service that keeps the user's login credentials as well as foodroom data. The admin and security permissions for
-users are also prioritized in this app. Only the foodroom's administrator has the ability to change the name and description of the foodroom. The project aspires to be more than just a talking app by allowing us to submit more than just foods to the server; we can upload up to 5 files at once. In the food box, the user can choose to like or unlike certain foods. When the user likes the
+The most primary objective of this project is to understand the concept of building applications with the MERN stack (MongoDB, Express, React and Node). In this particular project, the focus has been built on a foodting application. The internship project focuses on developing a talking application in the MERN stack using the frontend JavaScript technology known as React and, as well as Node JS for the backend. Google Firebase is a free backend service that keeps the user's login credentials as well as foodroom data. The admin and security permissions for users are also prioritized in this app. Only the foodroom's administrator has the ability to change the name and description of the foodroom. The project aspires to be more than just a talking app by allowing us to submit more than just foods to the server; we can upload up to 5 files at once. In the food box, the user can choose to like or unlike certain foods. When the user likes the
  
 message, a heart emoticon appears. This is feasible because of to Reacts concept of post transactions. The user can log in to the app using the Google Firebase authenticator. The unsubscribe () function also allows the user to be unsubscribed from the database when he logs out of the app. A timestamp is also provided to keep track of when the user registered into the app. The attachment icon is used to attach files to the message file, and the send button is used to transfer the files to the serve
  
-1.3.	Overview of Technologies Used in the Project
+# 1.3.	Overview of Technologies Used in the Project
 
-MERN TECHNOLOGY: MERN stack stands out for its versatility, efficiency, and end-to-end JavaScript implementation when building web applications. It allows developers to leverage a single language, JavaScript, across the entire stack, enabling code reuse and streamlining the development process. Here is a brief explanation of the stack’s four components:
+# MERN TECHNOLOGY: 
+
+MERN stack stands out for its versatility, efficiency, and end-to-end JavaScript implementation when building web applications. It allows developers to leverage a single language, JavaScript, across the entire stack, enabling code reuse and streamlining the development process. Here is a brief explanation of the stack’s four components:
 •	MongoDB provides a flexible and scalable data management solution.
 •	Express.js simplifies writing code and building back-end components for application development.
 •	React, known for its component-based architecture and efficient rendering, empowers developers to build dynamic and interactive user interfaces.
@@ -76,43 +72,40 @@ MERN TECHNOLOGY: MERN stack stands out for its versatility, efficiency, and end-
 communication between the front-end and back-end components.
 
 
-1.	MongoDB
+# 1.	MongoDB
 
 MongoDB is a NoSQL database that is used as the data storage component in the MERN stack. Known for its flexibility and scalability, MongoDB is a great choice to handle large quantities of data. MongoDB stores data in JSON-like documents, which allows for easy integration with JavaScript-based applications. Its query language and data manipulation capabilities make it a powerful tool for managing and retrieving data in MERN applications.
 
 
-2.	Express.js
+# 2.	Express.js
 
-Express.js is a lightweight web application framework that runs within a Node.js server. It provides features and utilities for building web applications and application programming interfaces (APIs). Express.js simplifies handling HTTP requests, defining routes, and managing middleware. It allows developers to create robust server-side applications quickly and
-efficiently. Express.js seamlessly integrates with other components of the MERN stack and enables efficient communication between the front end and the back end.
+Express.js is a lightweight web application framework that runs within a Node.js server. It provides features and utilities for building web applications and application programming interfaces (APIs). Express.js simplifies handling HTTP requests, defining routes, and managing middleware. It allows developers to create robust server-side applications quickly and efficiently. Express.js seamlessly integrates with other components of the MERN stack and enables efficient communication between the front end and the back end.
 
-3.	React
-React is the front-end part of the MERN stack and is often a common choice for developing user interfaces (UI). The architecture React builds upon is component-based. This enables
- 
-developers to make and maintain reusable UI components. It provides a virtual document object model (DOM) that optimizes rendering performance by efficiently updating only the necessary parts of the UI. Reacts declarative syntax and efficient rendering make it a powerful tool for creating interactive and dynamic web applications.
+# 3.	React
+
+React is the front-end part of the MERN stack and is often a common choice for developing user interfaces (UI). The architecture React builds upon is component-based. This enables developers to make and maintain reusable UI components. It provides a virtual document object model (DOM) that optimizes rendering performance by efficiently updating only the necessary parts of the UI. Reacts declarative syntax and efficient rendering make it a powerful tool for creating interactive and dynamic web applications.
  
 
-4.	Node.js
+# 4.	Node.js
+
 Node.js is a common JavaScript environment. Specifically, it’s a runtime environment, enabling developers to utilize JavaScript code in various places, including outside of a web browser. It serves as the backend component in the MERN stack. Node.js provides an event-driven, non- blocking I/O model that is highly scalable and efficient. It allows developers to build server- side applications using JavaScript, enabling code sharing between the front end and back end. Node.js has a vast ecosystem of modules and packages, making it easy to integrate with other technologies and libraries.
 
 
+![image](https://github.com/user-attachments/assets/128777cb-0a46-4eac-aedb-d63a406b7021)
 
 
 
-
-
-
-
-
-Fig.1.2. Overview of Technologies Used
+# Fig.1.2. Overview of Technologies Used
  
-CHAPTER- 2
-TOOL AND TECHNOLOGY
+# CHAPTER- 2
+# TOOL AND TECHNOLOGY
 
-2.1.	MERN TECHNOLOGY
+# 2.1.	MERN TECHNOLOGY
+
+![image](https://github.com/user-attachments/assets/f5c7bd11-1f3b-49e7-a582-01794b8a3d92)
 
 
-Fig.2.1. Technology used
+# Fig.2.1. Technology used
 
 
 MERN Stack is a JavaScript Stack that is used for easier and faster deployment of full-stack web applications. MERN Stack comprises 4 technologies namely: MongoDB, Express, React and Node.js. It is designed to make the development process smoother and easier. When working with the MERN stack, developers create and implement the View layer using React Express Node is used to implement the application layer of the website then MongoDB is used to implement the database layer.
@@ -180,13 +173,14 @@ In summary, the MERN stack combines MongoDB, Express.js, React.js, and Node.js t
 5.	Socket.IO: A library for real-time web applications, used for enabling real-time communication.
 6.	HTML/CSS: For frontend design and layout.
  
- 
-
-Fig.2.2. Features of Technologies in Food application
+ ![image](https://github.com/user-attachments/assets/36a03a5b-eddc-4faf-93a7-60386e7a8896)
 
 
+# Fig.2.2. Features of Technologies in Food application
 
-2.2.	Features of Food Application:
+
+
+# 2.2.	Features of Food Application:
 
 Here are the features of the Food Delivery Application:
 1.	User Registration and Authentication:
@@ -225,17 +219,18 @@ Here are the features of the Food Delivery Application:
 
 These features aim to provide a comprehensive and user-friendly experience for both customers and restaurants, making the food delivery process convenient, efficient, and enjoyable.
  
-CHAPTER- 3 ARCHITECTURE OF THE APPLICATION
+# CHAPTER- 3 
+# ARCHITECTURE OF THE APPLICATION
 
 
 The architecture of a food application can vary depending on factors such as scalability requirements, real-time communication needs, security considerations, and the chosen technology stack. Here's a high-level overview of a typical architecture for a food application:
 
-Client-Side Application:
+# Client-Side Application:
 
 1.	User Interface (UI): The client-side application includes the user interface (UI) components responsible for displaying the Tomato Admin Panel, Add Items, List Items, and Oders. This UI is typically built using web technologies such as HTML, CSS, and JavaScript, often with frameworks like React.js or Angular.
 2.	Communication Layer: The client-side application also includes the communication layer responsible for interacting with the server-side components. This layer handles tasks such as sending and receiving oders, managing user authentication, and updating the UI in real time based on incoming data.
 
-Server-Side Application:
+# Server-Side Application:
 
 1.	Web Server: The server-side application is responsible for handling incoming requests from clients, processing data, and coordinating communication between clients. It typically runs on a web server powered by a technology like Node.js with frameworks like Express.js for handling HTTP requests.
 2.	Real-Time Communication: To enable real-time communication between clients, the server may utilize technologies such as WebSocket or WebRTC. WebSocket provides full-duplex communication channels over a single TCP connection, allowing for efficient real-time messaging between clients and the server.
@@ -244,16 +239,16 @@ Server-Side Application:
 order items, Track orders, and other application entities.
 4.	Authentication and Authorization: The server handles user authentication and authorization to ensure that only authenticated users can access the food application and interact with other users. This typically involves validating user credentials, generating and verifying authentication tokens (e.g., JWT), and enforcing access control rules.
  
-Database:
+# Database:
 
 1.	Message Storage: Food applications often use databases to store order item data persistently. A NoSQL database like MongoDB is commonly used due to its flexibility and scalability, allowing for efficient storage and retrieval of food orders, Rupees, and other application data.
 
-External Services:
+# External Services:
 
 1.	Push Notification Service: To notify users about new ordersor other relevant events, the food application may integrate with a push notification service like Firebase Cloud Messaging (FCM) or Apple Push Notification Service (APNs). These services send push notifications to users' devices, even when the food application is not actively running.
 2.	Third-Party APIs: Depending on the application's requirements, it may integrate with third-party APIs for additional functionalities such as user authentication (e.g., OAuth), content moderation, translation services, and cash delivery.
 
-Infrastructure:
+# Infrastructure:
 
 1.	Load Balancer: In a distributed architecture, a load balancer distributes incoming client requests across multiple instances of the server-side application to ensure high availability and scalability.
 2.	Database Replication and Sharding: To handle large volumes of data and ensure fault tolerance, the database may employ techniques such as replication and sharding. Replication creates multiple copies of the data across different servers for redundancy while sharding partitions the data into smaller chunks distributed across multiple servers.
@@ -265,14 +260,16 @@ Overall, the architecture of a food application involves client-side and server-
 
 
 
+![image](https://github.com/user-attachments/assets/d84a30f6-3341-4c34-98bc-ff53893a9955)
 
 
 
 
-Fig.3.1. Architecture of Food application
+# Fig.3.1. Architecture of Food application
  
-CHAPTER- 4 DEVELOPMENT PROCESS
-4.1	Planning
+# CHAPTER- 4 
+# DEVELOPMENT PROCESS
+# 4.1	Planning
 
 Planning a MERN (MongoDB, Express.js, React.js, Node.js) food application involves several key steps to ensure a smooth development process and a successful end product. Here's a suggested planning outline:
 
@@ -305,17 +302,17 @@ By following a structured planning process, you can effectively manage the devel
 
 
 
-4.2	Development:
+# 4.2	Development:
 
 Developing a MERN (MongoDB, Express.js, React.js, Node.js) food application involves several steps. Here's a high-level overview of the development process:
  
-Setup Development Environment:
+# Setup Development Environment:
 
 •	Install necessary software tools such as Node.js, npm (Node Package Manager), and a code editor (e.g., Visual Studio Code).
 •	Set up a MongoDB database instance either locally or on a cloud platform like MongoDB Atlas.
 •	Create a new directory for the project and initialize a new Node.js project using npm init.
 
-Backend Development (Node.js/Express.js):
+# Backend Development (Node.js/Express.js):
 
 •	Set up the Express.js server by creating a new Express application.
 •	Define routes for handling HTTP requests, such as user authentication, message sending, and food room management.
@@ -323,7 +320,7 @@ Backend Development (Node.js/Express.js):
 •	Integrate with MongoDB using Mongoose or another MongoDB library to interact with the database for data storage and retrieval.
 •	Implement WebSocket or Socket.IO for real-time communication between clients and the server.
 
-Frontend Development (React.js):
+# Frontend Development (React.js):
 
 •	Set up the React.js application by creating a new React project using create-react- app or a similar tool.
 •	Design and develop the user interface (UI) components for the food application, including adding food items, message threads, user authentication forms, and user profiles.
@@ -332,31 +329,31 @@ Frontend Development (React.js):
  
 
 
-User Authentication:
+# User Authentication:
 
 •	Implement user authentication features such as signup, login, logout, and password reset using JWT (JSON Web Tokens) or another authentication mechanism.
 •	Set up routes and controllers on the backend to handle authentication-related requests and validate user credentials.
 •	Secure sensitive data and endpoints using authentication middleware and access control rules.
 
-Real-Time Messaging:
+# Real-Time Messaging:
 
 •	Implement real-time messaging functionality using WebSocket or Socket.IO to enable instant messaging between users.
 •	Define add items, protocols, and communication patterns for exchanging messages between clients and the server.
 •	Implement features like message broadcasting, private messaging, typing indicators, and message delivery notifications.
 
-Database Integration:
+# Database Integration:
 
 •	Set up MongoDB database connections and configure database models using Mongoose or another MongoDB library.
 •	Define database schemas for storing user data, food messages, food rooms, and other relevant information.
 •	Implement CRUD (Create, Read, Update, Delete) operations for interacting with the database and managing application data.
 
-Testing:
+# Testing:
  
 •	Write and execute unit tests, integration tests, and end-to-end tests to ensure the reliability, functionality, and performance of the food application.
 •	Test for edge cases, error handling, security vulnerabilities, and cross-browser compatibility.
 •	Consider using testing frameworks and libraries such as Jest, Mocha, Chai, and Enzyme for testing purposes.
 
-Deployment:
+# Deployment:
 
 •	Deploy the food application to a hosting platform such as Heroku, AWS (Amazon Web Services), or Digital Ocean.
 •	Set up continuous integration and continuous deployment (CI/CD) pipelines to automate the deployment process.
@@ -370,15 +367,8 @@ Monitoring and Maintenance:
 
 By following these steps, you can effectively develop a MERN food application that meets the requirements, delivers a seamless user experience, and achieves its objectives.
  
-
-
-
  
-
-
-Fig.4.1. Development of Food application
- 
-4.3	Testing:
+# 4.3	Testing:
 Testing is a critical aspect of developing a MERN (MongoDB, Express.js, React.js, Node.js) food application to ensure its reliability, functionality, and performance. Here's a comprehensive approach to testing a MERN food application:
 
 1.	**Unit Testing**:
@@ -428,7 +418,7 @@ By following a comprehensive testing approach encompassing unit testing, integra
 
 
 
-4.4	Methodology:
+# 4.4	Methodology:
 In the context of developing a MERN food application, you can follow an iterative and incremental development methodology, such as Agile. Here's how you can apply Agile methodology to the development process:
 
 1.	**Project Planning and Scoping**:
@@ -468,3 +458,32 @@ In the context of developing a MERN food application, you can follow an iterativ
 -	Prioritize backlog items and user stories based on feedback, emerging priorities, and business objectives to deliver maximum value to users.
 
 By following an Agile methodology, you can adapt to changing requirements, deliver features incrementally, and maintain a flexible and collaborative development process throughout the lifecycle of the MERN food application. This iterative approach enables you to respond to feedback quickly, minimize risks, and deliver a high-quality product that meets the needs of users.
+
+# CHAPTER- 5
+
+
+# FOOD APPLICATION (TOMATO) SCREENSHOTS
+
+
+![image](https://github.com/user-attachments/assets/e7c379df-5e33-42fe-b1d0-db70b453f40f)
+
+
+
+# Fig.5.1: Login Page of Food Application
+ 
+![image](https://github.com/user-attachments/assets/fb0a2ef9-cff8-494f-9930-7af2de64f1ec)
+
+ 
+# Fig.5.2.: Registration Page of Food Application
+ 
+
+ ![image](https://github.com/user-attachments/assets/91bd0b74-44b5-41b1-a92f-661d11a01160)
+
+
+# Fig.5.3.: Choose an Add items for profile Picture
+ 
+![image](https://github.com/user-attachments/assets/20f97875-ce08-4e41-9f5f-06280e17c880)
+
+ 
+# Fig.5.4.: Tomato Food Application
+
