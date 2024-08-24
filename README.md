@@ -1,4 +1,5 @@
-                                                                        # CHAPTER- 1 
+                                                                      CHAPTER- 1 
+                                                                      
 # INTRODUCTION TO THE PROJECT
 # 1.1.	Introduction of Food Application
 An online food ordering system is proposed here which simplifies the food ordering process. It can be defined as a simple and convenient way for customers to order food online, without having to go to the restaurant. The proposed system shows a customer interface and updates the menu with all available options so that it eases the customer work. Customers can choose more than one item to make an order and can view order details.
@@ -97,7 +98,8 @@ Node.js is a common JavaScript environment. Specifically, it’s a runtime envir
 
 # Fig.1.2. Overview of Technologies Used
  
-# CHAPTER- 2
+                                                                                 CHAPTER- 2
+                                                                                 
 # TOOL AND TECHNOLOGY
 
 # 2.1.	MERN TECHNOLOGY
@@ -219,7 +221,8 @@ Here are the features of the Food Delivery Application:
 
 These features aim to provide a comprehensive and user-friendly experience for both customers and restaurants, making the food delivery process convenient, efficient, and enjoyable.
  
-# CHAPTER- 3 
+                                                                              CHAPTER- 3
+                                                                              
 # ARCHITECTURE OF THE APPLICATION
 
 
@@ -267,7 +270,7 @@ Overall, the architecture of a food application involves client-side and server-
 
 # Fig.3.1. Architecture of Food application
  
-# CHAPTER- 4 
+                                                                               CHAPTER- 4 
 # DEVELOPMENT PROCESS
 # 4.1	Planning
 
@@ -459,7 +462,8 @@ In the context of developing a MERN food application, you can follow an iterativ
 
 By following an Agile methodology, you can adapt to changing requirements, deliver features incrementally, and maintain a flexible and collaborative development process throughout the lifecycle of the MERN food application. This iterative approach enables you to respond to feedback quickly, minimize risks, and deliver a high-quality product that meets the needs of users.
 
-# CHAPTER- 5
+                                                                              
+                                                                              CHAPTER- 5
 
 
 # FOOD APPLICATION (TOMATO) SCREENSHOTS
